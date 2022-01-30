@@ -1,4 +1,3 @@
-import React from 'react';
 
 const Footer = () => {
   return (
@@ -16,7 +15,7 @@ const Footer = () => {
               <h5 className="font-bold">COMMUNITY</h5>
               <p>Accessibility</p>
               <p>This is not a real site</p>
-              <p>It's a pretty awesome clone</p>
+              <p>It&#39;s a pretty awesome clone</p>
               <p>NextJS</p>
               <p>Tailwind</p>
           </div>
